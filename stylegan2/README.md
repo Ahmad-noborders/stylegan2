@@ -1,0 +1,1 @@
+Improving time for styleganencoder
